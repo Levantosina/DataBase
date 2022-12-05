@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlBD", "sqlBD\sqlBD.csproj", "{35C19300-C76C-4132-A15A-9F3A1A2E4524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reports", "reports\reports.csproj", "{D24A9CF1-3371-4516-85F0-B0127E5736C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C19300-C76C-4132-A15A-9F3A1A2E4524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C19300-C76C-4132-A15A-9F3A1A2E4524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C19300-C76C-4132-A15A-9F3A1A2E4524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C19300-C76C-4132-A15A-9F3A1A2E4524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D24A9CF1-3371-4516-85F0-B0127E5736C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24A9CF1-3371-4516-85F0-B0127E5736C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24A9CF1-3371-4516-85F0-B0127E5736C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24A9CF1-3371-4516-85F0-B0127E5736C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A53133-E801-4FB2-93B5-65CAFE9DB980}
+	EndGlobalSection
+EndGlobal
